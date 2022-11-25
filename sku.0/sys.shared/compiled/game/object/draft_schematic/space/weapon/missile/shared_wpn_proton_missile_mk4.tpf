@@ -14,9 +14,9 @@ attributes = [
 	[name = "crafting" "xp", experiment = "" "", value = 625..625],
 	[name = "crafting" "fltMaxDamage", experiment = "crafting" "exp_damage_max", value = 6740..12517],
 	[name = "crafting" "fltMinDamage", experiment = "crafting" "exp_damage_min", value = 3467..6439],
-	[name = "crafting" "fltShieldEffectiveness", experiment = "" "", value = 350..650],
-	[name = "crafting" "fltArmorEffectiveness", experiment = "" "", value = 350..650],
-	[name = "crafting" "fltMaxAmmo", experiment = "crafting" "exp_ammo", value = 7..13],
+	[name = "crafting" "fltShieldEffectiveness", experiment = "" "", value = 550..550],
+	[name = "crafting" "fltArmorEffectiveness", experiment = "" "", value = 550..550],
+	[name = "crafting" "fltMaxAmmo", experiment = "crafting" "exp_ammo", value = 6..13],
 	[name = "crafting" "fltRefireRate", experiment = "crafting" "exp_fltrefirerate", value = 4046..7514]]
 
 slots = [

@@ -10,11 +10,11 @@
 @class draft_schematic_object_template 3
 
 attributes = [
-	[name = "crafting" "complexity", experiment = "" "", value = 21..21],
-	[name = "crafting" "xp", experiment = "" "", value = 1250..1250],
-	[name = "crafting" "hitPointsMax", experiment = "crafting" "exp_hp", value = 674..913],
-	[name = "crafting" "mass", experiment = "crafting" "exp_mass", value = 5313..7188],
-	[name = "crafting" "armorHpMax", experiment = "crafting" "exp_armor", value = 337..456],
+	[name = "crafting" "complexity", experiment = "" "", value = 19..19],
+	[name = "crafting" "xp", experiment = "" "", value = 625..625],
+	[name = "crafting" "hitPointsMax", experiment = "crafting" "exp_hp", value = 540..730],
+	[name = "crafting" "mass", experiment = "crafting" "exp_mass", value = 2125..2875],
+	[name = "crafting" "armorHpMax", experiment = "crafting" "exp_armor", value = 270..365],
 	[name = "crafting" "energy_efficiency", experiment = "" "", value = 1..1],
 	[name = "crafting" "energy_maintenance", experiment = "crafting" "exp_energy_maintenance", value = 935..1265]]
 

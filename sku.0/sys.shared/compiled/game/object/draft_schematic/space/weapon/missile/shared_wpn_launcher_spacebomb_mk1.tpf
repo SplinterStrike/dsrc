@@ -16,7 +16,7 @@ attributes = [
 	[name = "crafting" "mass", experiment = "crafting" "exp_mass", value = 5313..7188],
 	[name = "crafting" "armorHpMax", experiment = "crafting" "exp_armor", value = 270..365],
 	[name = "crafting" "energy_efficiency", experiment = "" "", value = 1..1],
-	[name = "crafting" "energy_maintenance", experiment = "crafting" "exp_energy_maintenance", value = 1105..1495]]
+	[name = "crafting" "energy_maintenance", experiment = "crafting" "exp_energy_maintenance", value = 978..1323]]
 
 slots = [
 	[name = "craft_item_ingredients_n" "casing", hardpoint = ""],
