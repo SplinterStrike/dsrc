@@ -210,6 +210,7 @@ col_space_engine_mark_02					item_collection_reward_engine_01_mk2_schematic					
 col_space_engine_mark_03					item_collection_reward_engine_01_mk3_schematic												Mark 3 Engine
 col_space_engine_mark_04					item_collection_reward_engine_01_mk4_schematic												Mark 4 Engine
 col_space_engine_mark_05					item_collection_reward_engine_01_mk5_schematic												Mark 5 Engine
+col_space_engine_mark_06					item_collection_reward_engine_01_mk6_schematic												Mark 6 Engine
 col_space_booster_mark_01					item_collection_reward_booster_01_mk1_schematic												Mark 1 Booster
 col_space_booster_mark_02					item_collection_reward_booster_01_mk2_schematic												Mark 2 Booster
 col_space_booster_mark_03					item_collection_reward_booster_01_mk3_schematic												Mark 3 Booster
@@ -250,6 +251,7 @@ trader_space_engine_mk2_counter			bdg_space_engine_crafting_2		item_crafting_col
 trader_space_engine_mk3_counter			bdg_space_engine_crafting_3		item_crafting_collection_reward_engine_01_mk3_schematic												3 Use Engine Schematic.
 trader_space_engine_mk4_counter			bdg_space_engine_crafting_4		item_crafting_collection_reward_engine_01_mk4_schematic												3 Use Engine Schematic.
 trader_space_engine_mk5_counter			bdg_space_engine_crafting_5,col_space_helper_monkey_01_02		item_crafting_collection_reward_engine_01_mk5_schematic												3 Use Engine Schematic.
+trader_space_engine_mk6_counter			bdg_space_engine_crafting_6		item_crafting_collection_reward_engine_01_mk6_schematic												3 Use Engine Schematic.
 trader_space_reactor_mk1_counter			bdg_space_reactor_crafting_1		item_crafting_collection_reward_reactor_01_mk1_schematic												3 Use Reactor Schematic.
 trader_space_reactor_mk2_counter			bdg_space_reactor_crafting_2		item_crafting_collection_reward_reactor_01_mk2_schematic												3 Use Reactor Schematic.
 trader_space_reactor_mk3_counter			bdg_space_reactor_crafting_3		item_crafting_collection_reward_reactor_01_mk3_schematic												3 Use Reactor Schematic.

@@ -1146,6 +1146,7 @@ object/tangible/ship/crafted/engine/collection_reward_engine_01_mk2.iff	@cmd_n:c
 object/tangible/ship/crafted/engine/collection_reward_engine_01_mk3.iff	@cmd_n:cert_ordnance_level5
 object/tangible/ship/crafted/engine/collection_reward_engine_01_mk4.iff	@cmd_n:cert_ordnance_level7
 object/tangible/ship/crafted/engine/collection_reward_engine_01_mk5.iff	@cmd_n:cert_ordnance_level9
+object/tangible/ship/crafted/engine/collection_reward_engine_01_mk6.iff	@cmd_n:cert_ordnance_level5
 object/tangible/ship/crafted/engine/elite_engine.iff	@cmd_n:cert_ordnance_levelten
 object/tangible/ship/crafted/engine/eng_elite_mk2.iff	@cmd_n:cert_ordnance_levelten
 object/tangible/ship/crafted/engine/eng_mk1.iff	@cmd_n:cert_ordnance_level1

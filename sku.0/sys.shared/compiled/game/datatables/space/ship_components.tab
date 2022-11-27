@@ -720,6 +720,7 @@ collection_reward_engine_01_mk2	object/tangible/ship/crafted/engine/collection_r
 collection_reward_engine_01_mk3	object/tangible/ship/crafted/engine/collection_reward_engine_01_mk3.iff	object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk3.iff	engine	eng_0
 collection_reward_engine_01_mk4	object/tangible/ship/crafted/engine/collection_reward_engine_01_mk4.iff	object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk4.iff	engine	eng_0
 collection_reward_engine_01_mk5	object/tangible/ship/crafted/engine/collection_reward_engine_01_mk5.iff	object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk5.iff	engine	eng_0
+collection_reward_engine_01_mk6	object/tangible/ship/crafted/engine/collection_reward_engine_01_mk6.iff	object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk6.iff	engine	eng_0
 hgr_generic			hangar	hgr_0
 hvy_durasteel_armor	object/tangible/ship/crafted/armor/heavy_durasteel_plating.iff	object/tangible/ship/crafted/armor/shared_heavy_durasteel_plating.iff	armor	arm_0
 lgt_durasteel_armor	object/tangible/ship/crafted/armor/light_durasteel_plating.iff	object/tangible/ship/crafted/armor/shared_light_durasteel_plating.iff	armor	arm_0

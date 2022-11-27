@@ -477,6 +477,7 @@ badge_book				0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0
 			bdg_space_engine_crafting_3	5190	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
 			bdg_space_engine_crafting_4	5191	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
 			bdg_space_engine_crafting_5	5192	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
+			bdg_space_engine_crafting_6	22880	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
 		col_bdg_space_component_crafting_counter_reactor		0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						1	0
 			bdg_space_reactor_crafting_1	5193	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
 			bdg_space_reactor_crafting_2	5194	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
@@ -2525,6 +2526,8 @@ crafting_book				0	-1	-1																		sound/music_acq_miner.snd	gray	0	0				
 			space_engine_mk4_reward	5046	5054	20	crafted_space_engine_mk4_reward																	sound/music_acq_miner.snd	gray	0	0						0	0
 		trader_space_engine_mk5_counter		0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	1
 			space_engine_mk5_reward	5055	5063	20	crafted_space_engine_mk5_reward																	sound/music_acq_miner.snd	gray	0	0						0	0
+		trader_space_engine_mk6_counter		0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	1
+			space_engine_mk6_reward	22771	22779	20	crafted_space_engine_mk6_reward																	sound/music_acq_miner.snd	gray	0	0						0	0
 		trader_space_reactor_mk1_counter		0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	1
 			space_reactor_mk1_reward	5064	5072	20	crafted_space_reactor_mk1_reward																	sound/music_acq_miner.snd	gray	0	0						0	0
 		trader_space_reactor_mk2_counter		0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	1
@@ -3505,6 +3508,15 @@ space_book_02				0	-1	-1																		sound/music_acq_miner.snd	gray	0	0				
 			engine_mark_05_moncal	4682	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
 			engine_mark_05_novaldex	4683	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
 			engine_mark_05_qualdex	4684	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
+		col_space_engine_mark_06		0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	1
+			engine_mark_06_cygnus	22763	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
+			engine_mark_06_incom	22764	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
+			engine_mark_06_koensayr	22765	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
+			engine_mark_06_kse	22766	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
+			engine_mark_06_mandal	22767	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
+			engine_mark_06_moncal	22768	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
+			engine_mark_06_novaldex	22769	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
+			engine_mark_06_qualdex	22770	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
 		col_space_booster_mark_01		0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	1
 			booster_mark_01_incom	4685	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0
 			booster_mark_01_kessel	4686	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0	0

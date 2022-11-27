@@ -3068,6 +3068,7 @@ item_collection_reward_booster_01_mk4_schematic			string:loot_schematic.schemati
 item_collection_reward_booster_01_mk3_schematic			string:loot_schematic.schematic=object/draft_schematic/space/booster/collection_reward_booster_01_mk3.iff,int:loot_schematic.uses=1,string:loot_schematic.skill_req=class_structures_phase3_novice								
 item_collection_reward_booster_01_mk2_schematic			string:loot_schematic.schematic=object/draft_schematic/space/booster/collection_reward_booster_01_mk2.iff,int:loot_schematic.uses=1,string:loot_schematic.skill_req=class_structures_phase2_novice								
 item_collection_reward_booster_01_mk1_schematic			string:loot_schematic.schematic=object/draft_schematic/space/booster/collection_reward_booster_01_mk1.iff,int:loot_schematic.uses=1,string:loot_schematic.skill_req=class_structures_phase1_novice								
+item_collection_reward_engine_01_mk6_schematic			string:loot_schematic.schematic=object/draft_schematic/space/engine/collection_reward_engine_01_mk6.iff,int:loot_schematic.uses=1,string:loot_schematic.skill_req=class_structures_phase3_novice								
 item_collection_reward_engine_01_mk5_schematic			string:loot_schematic.schematic=object/draft_schematic/space/engine/collection_reward_engine_01_mk5.iff,int:loot_schematic.uses=1,string:loot_schematic.skill_req=class_structures_phase3_novice								
 item_collection_reward_engine_01_mk4_schematic			string:loot_schematic.schematic=object/draft_schematic/space/engine/collection_reward_engine_01_mk4.iff,int:loot_schematic.uses=1,string:loot_schematic.skill_req=class_structures_phase3_novice								
 item_collection_reward_engine_01_mk3_schematic			string:loot_schematic.schematic=object/draft_schematic/space/engine/collection_reward_engine_01_mk3.iff,int:loot_schematic.uses=1,string:loot_schematic.skill_req=class_structures_phase3_novice								
@@ -3198,6 +3199,14 @@ space_collection_engine_mark_05_mandal			string:collection.slotName=col_space_en
 space_collection_engine_mark_05_moncal			string:collection.slotName=col_space_engine_mark_05:engine_mark_05_moncal	index_color_1=20							
 space_collection_engine_mark_05_novaldex			string:collection.slotName=col_space_engine_mark_05:engine_mark_05_novaldex	index_color_1=20							
 space_collection_engine_mark_05_qualdex			string:collection.slotName=col_space_engine_mark_05:engine_mark_05_qualdex	index_color_1=20							
+space_collection_engine_mark_06_cygnus			string:collection.slotName=col_space_engine_mark_06:engine_mark_06_cygnus	index_color_1=20							
+space_collection_engine_mark_06_incom			string:collection.slotName=col_space_engine_mark_06:engine_mark_06_incom	index_color_1=20							
+space_collection_engine_mark_06_koensayr			string:collection.slotName=col_space_engine_mark_06:engine_mark_06_koensayr	index_color_1=20							
+space_collection_engine_mark_06_kse			string:collection.slotName=col_space_engine_mark_06:engine_mark_06_kse	index_color_1=20							
+space_collection_engine_mark_06_mandal			string:collection.slotName=col_space_engine_mark_06:engine_mark_06_mandal	index_color_1=20							
+space_collection_engine_mark_06_moncal			string:collection.slotName=col_space_engine_mark_06:engine_mark_06_moncal	index_color_1=20							
+space_collection_engine_mark_06_novaldex			string:collection.slotName=col_space_engine_mark_06:engine_mark_06_novaldex	index_color_1=20							
+space_collection_engine_mark_06_qualdex			string:collection.slotName=col_space_engine_mark_06:engine_mark_06_qualdex	index_color_1=20							
 space_collection_reactor_mark_01_cygnus			string:collection.slotName=col_space_reactor_mark_01:reactor_mark_01_cygnus	index_color_1=36							
 space_collection_reactor_mark_01_freitek			string:collection.slotName=col_space_reactor_mark_01:reactor_mark_01_freitek	index_color_1=36							
 space_collection_reactor_mark_01_incom			string:collection.slotName=col_space_reactor_mark_01:reactor_mark_01_incom	index_color_1=36							
@@ -3390,6 +3399,7 @@ item_crafting_collection_reward_booster_01_mk4_schematic			string:loot_schematic
 item_crafting_collection_reward_booster_01_mk3_schematic			string:loot_schematic.schematic=object/draft_schematic/space/booster/collection_reward_booster_01_mk3.iff,int:loot_schematic.uses=3,string:loot_schematic.skill_req=class_structures_phase3_novice								
 item_crafting_collection_reward_booster_01_mk2_schematic			string:loot_schematic.schematic=object/draft_schematic/space/booster/collection_reward_booster_01_mk2.iff,int:loot_schematic.uses=3,string:loot_schematic.skill_req=class_structures_phase2_novice								
 item_crafting_collection_reward_booster_01_mk1_schematic			string:loot_schematic.schematic=object/draft_schematic/space/booster/collection_reward_booster_01_mk1.iff,int:loot_schematic.uses=3,string:loot_schematic.skill_req=class_structures_phase1_novice								
+item_crafting_collection_reward_engine_01_mk6_schematic			string:loot_schematic.schematic=object/draft_schematic/space/engine/collection_reward_engine_01_mk6.iff,int:loot_schematic.uses=3,string:loot_schematic.skill_req=class_structures_phase3_novice								
 item_crafting_collection_reward_engine_01_mk5_schematic			string:loot_schematic.schematic=object/draft_schematic/space/engine/collection_reward_engine_01_mk5.iff,int:loot_schematic.uses=3,string:loot_schematic.skill_req=class_structures_phase3_novice								
 item_crafting_collection_reward_engine_01_mk4_schematic			string:loot_schematic.schematic=object/draft_schematic/space/engine/collection_reward_engine_01_mk4.iff,int:loot_schematic.uses=3,string:loot_schematic.skill_req=class_structures_phase3_novice								
 item_crafting_collection_reward_engine_01_mk3_schematic			string:loot_schematic.schematic=object/draft_schematic/space/engine/collection_reward_engine_01_mk3.iff,int:loot_schematic.uses=3,string:loot_schematic.skill_req=class_structures_phase3_novice								
