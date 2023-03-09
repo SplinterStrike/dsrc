@@ -1,0 +1,20 @@
+// This file was copied from shared_navicomputer_6
+
+@base object/tangible/droid/shared_navicomputer_base.iff
+
+@class tangible_object_template 8
+
+//certificationsRequired = ["astromech_droid_cert_2"]
+certificationsRequired = ["cert_droid_astromech_6"]
+
+@class object_template 9
+
+
+objectName = "space/space_item"  "navicomputer_7_n"
+
+detailedDescription = "space/space_item"  "navicomputer_7_d"
+
+appearanceFilename = "appearance/ship_component_droidinterface_s01.apt"
+
+portalLayoutFilename = ""
+

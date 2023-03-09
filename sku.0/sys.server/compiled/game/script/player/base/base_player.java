@@ -7248,7 +7248,7 @@ public class base_player extends script.base_script
                 CustomerServiceLog("CharacterTransfer", "unpackItem() : unpacking contents of container " + newItem + "(type " + containerType + ")");
                 if (itemDictionary.containsKey("contents"))
                 {
-                    if (objectTemplateName.equals("object/intangible/ship/navicomputer_1.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_2.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_3.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_4.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_5.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_6.iff"))
+                    if (objectTemplateName.equals("object/intangible/ship/navicomputer_1.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_2.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_3.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_4.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_5.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_6.iff") || objectTemplateName.equals("object/intangible/ship/navicomputer_7.iff"))
                     {
                         obj_id datapad = utils.getDatapad(newItem);
                         if (isIdValid(datapad))

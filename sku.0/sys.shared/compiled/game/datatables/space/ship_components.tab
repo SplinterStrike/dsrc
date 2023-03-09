@@ -1003,6 +1003,7 @@ wpn_armek_sw6	object/tangible/ship/components/weapon/wpn_armek_sw6.iff	object/ta
 wpn_armek_sw7	object/tangible/ship/components/weapon/wpn_armek_sw7.iff	object/tangible/ship/components/weapon/shared_wpn_armek_sw7.iff	weapon	wpn_0
 wpn_armek_sw8	object/tangible/ship/components/weapon/wpn_armek_sw8.iff	object/tangible/ship/components/weapon/shared_wpn_armek_sw8.iff	weapon	wpn_0
 wpn_awing_blaster	object/tangible/ship/components/weapon/wpn_awing_blaster.iff	object/tangible/ship/components/weapon/shared_wpn_awing_blaster.iff	weapon	wpn_0
+wpn_blastech_inferno	object/tangible/ship/components/weapon/wpn_blastech_inferno.iff	object/tangible/ship/components/weapon/shared_wpn_blastech_inferno.iff	weapon	wpn_0
 wpn_borstel_rg9	object/tangible/ship/components/weapon/wpn_borstel_rg9.iff	object/tangible/ship/components/weapon/shared_wpn_borstel_rg9.iff	weapon	wpn_0
 wpn_bwing_blaster	object/tangible/ship/components/weapon/wpn_bwing_blaster.iff	object/tangible/ship/components/weapon/shared_wpn_bwing_blaster.iff	weapon	wpn_0
 wpn_capitalship_turret_test	object/tangible/ship/components/weapon/wpn_capitalship_turret_test.iff	object/tangible/ship/components/weapon/shared_wpn_capitalship_turret_test.iff	weapon	wpn_0

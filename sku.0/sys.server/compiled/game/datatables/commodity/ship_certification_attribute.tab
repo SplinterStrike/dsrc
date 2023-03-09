@@ -6,6 +6,7 @@ object/tangible/droid/navicomputer_3.iff	@cmd_n:cert_droid_astromech_3
 object/tangible/droid/navicomputer_4.iff	@cmd_n:cert_droid_astromech_4
 object/tangible/droid/navicomputer_5.iff	@cmd_n:cert_droid_astromech_5
 object/tangible/droid/navicomputer_6.iff	@cmd_n:cert_droid_astromech_6
+object/tangible/droid/navicomputer_7.iff	@cmd_n:cert_droid_astromech_7
 object/tangible/ship/components/armor/arm_corellian_advanced_durasteel.iff	@cmd_n:cert_ordnance_level7
 object/tangible/ship/components/armor/arm_corellian_cheap_durasteel.iff	@cmd_n:cert_ordnance_level1
 object/tangible/ship/components/armor/arm_corellian_elite_durasteel.iff	@cmd_n:cert_ordnance_level9
@@ -795,6 +796,7 @@ object/tangible/ship/components/weapon/wpn_armek_sw6.iff	@cmd_n:cert_ordnance_le
 object/tangible/ship/components/weapon/wpn_armek_sw7.iff	@cmd_n:cert_ordnance_level8
 object/tangible/ship/components/weapon/wpn_armek_sw8.iff	@cmd_n:cert_ordnance_level7
 object/tangible/ship/components/weapon/wpn_awing_blaster.iff	@cmd_n:cert_ordnance_level2
+object/tangible/ship/components/weapon/wpn_blastech_inferno.iff	@cmd_n:cert_ordnance_level9
 object/tangible/ship/components/weapon/wpn_borstel_rg9.iff	@cmd_n:cert_ordnance_level9
 object/tangible/ship/components/weapon/wpn_bwing_blaster.iff	@cmd_n:cert_ordnance_level2
 object/tangible/ship/components/weapon/wpn_capitalship_turret_test.iff	@cmd_n:cert_ordnance_level3
