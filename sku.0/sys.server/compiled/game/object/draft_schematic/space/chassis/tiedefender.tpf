@@ -17,7 +17,7 @@ slots = [
 	optional = false,
 	name = "craft_item_ingredients_n" "frame",
 	options = [
-		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "frame", ingredient="steel", count=24000]], complexity = 0, skillCommand = "unskilled"]],
+		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "frame", ingredient="steel", count=48000]], complexity = 0, skillCommand = "unskilled"]],
 	optionalSkillCommand = "",
 	complexity = 0,
 	appearance = "" ],
@@ -47,9 +47,25 @@ slots = [
 	appearance = "" ],
 	[
 	optional = false,
+	name = "craft_item_ingredients_n" "basic_heat_shielding",
+	options = [
+		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "basic_heat_shielding", ingredient="petrochem_inert", count=8000]], complexity = 0, skillCommand = "unskilled"]],
+	optionalSkillCommand = "",
+	complexity = 0,
+	appearance = "" ],
+	[
+	optional = false,
 	name = "craft_item_ingredients_n" "ship_skin",
 	options = [
 		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "ship_skin", ingredient="aluminum", count=8000]], complexity = 0, skillCommand = "unskilled"]],
+	optionalSkillCommand = "",
+	complexity = 0,
+	appearance = "" ],
+	[
+	optional = false,
+	name = "craft_item_ingredients_n" "shock_absorption_layer",
+	options = [
+		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "shock_absorption_layer", ingredient="iron", count=8000]], complexity = 0, skillCommand = "unskilled"]],
 	optionalSkillCommand = "",
 	complexity = 0,
 	appearance = "" ],
@@ -63,17 +79,17 @@ slots = [
 	appearance = "" ],
 	[
 	optional = false,
-	name = "craft_item_ingredients_n" "basic_heat_shielding",
+	name = "craft_item_ingredients_n" "advanced_structural_support",
 	options = [
-		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "basic_heat_shielding", ingredient="space_chemical_petrochem", count=2000]], complexity = 0, skillCommand = "unskilled"]],
+		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "advanced_structural_support", ingredient="ore_siliclastic", count=8000]], complexity = 0, skillCommand = "unskilled"]],
 	optionalSkillCommand = "",
 	complexity = 0,
 	appearance = "" ],
 	[
 	optional = false,
-	name = "craft_item_ingredients_n" "shock_absorption_layer",
+	name = "craft_item_ingredients_n" "chassis_pulse_shielding",
 	options = [
-		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "shock_absorption_layer", ingredient="space_metal_iron", count=2000]], complexity = 0, skillCommand = "unskilled"]],
+		[ingredientType=IT_resourceClass, ingredients = [[name="craft_item_ingredients_n" "chassis_pulse_shielding", ingredient="copper", count=8000]], complexity = 0, skillCommand = "unskilled"]],
 	optionalSkillCommand = "",
 	complexity = 0,
 	appearance = "" ]]
