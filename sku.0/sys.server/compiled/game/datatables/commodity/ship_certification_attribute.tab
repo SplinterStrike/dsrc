@@ -6,7 +6,6 @@ object/tangible/droid/navicomputer_3.iff	@cmd_n:cert_droid_astromech_3
 object/tangible/droid/navicomputer_4.iff	@cmd_n:cert_droid_astromech_4
 object/tangible/droid/navicomputer_5.iff	@cmd_n:cert_droid_astromech_5
 object/tangible/droid/navicomputer_6.iff	@cmd_n:cert_droid_astromech_6
-object/tangible/droid/navicomputer_7.iff	@cmd_n:cert_droid_astromech_7
 object/tangible/ship/components/armor/arm_corellian_advanced_durasteel.iff	@cmd_n:cert_ordnance_level7
 object/tangible/ship/components/armor/arm_corellian_cheap_durasteel.iff	@cmd_n:cert_ordnance_level1
 object/tangible/ship/components/armor/arm_corellian_elite_durasteel.iff	@cmd_n:cert_ordnance_level9
