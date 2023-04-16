@@ -1140,7 +1140,7 @@ public class space_crafting extends script.base_script
             "navicomputer_3",
             "navicomputer_4",
             "navicomputer_5",
-            "navicomputer_6",
+            "navicomputer_6"
         };
         String strName = getStringObjVar(objControlDevice, "pet.creatureName");
         if (strName != null)
