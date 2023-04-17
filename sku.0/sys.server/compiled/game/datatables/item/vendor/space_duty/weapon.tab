@@ -14,3 +14,4 @@ object/tangible/ship/components/weapon/wpn_subpro_light_ioncannon.iff	object/tan
 	object/tangible/ship/components/weapon/wpn_subpro_improved_light_ioncannon.iff							object/tangible/ship/components/weapon/wpn_sds_elite.iff	object/tangible/ship/components/weapon/wpn_taim_elite.iff
 	object/tangible/ship/components/weapon/wpn_tieadvanced_blaster.iff							object/tangible/ship/components/weapon/wpn_sfs_elite.iff	object/tangible/ship/components/weapon/wpn_hoersch_railgun.iff
 	object/tangible/ship/components/weapon/wpn_z95_blaster.iff							object/tangible/ship/components/weapon/wpn_taim_kx9.iff	object/tangible/ship/components/weapon/wpn_vulcan_cannon.iff
+								object/tangible/ship/components/weapon/wpn_blastech_inferno.iff	
