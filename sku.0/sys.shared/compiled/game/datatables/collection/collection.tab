@@ -477,7 +477,7 @@ badge_book				0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						0
 			bdg_space_engine_crafting_3	5190	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
 			bdg_space_engine_crafting_4	5191	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
 			bdg_space_engine_crafting_5	5192	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
-			bdg_space_engine_crafting_6	22880	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
+			bdg_space_engine_crafting_6	22780	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
 		col_bdg_space_component_crafting_counter_reactor		0	-1	-1																		sound/music_acq_miner.snd	gray	0	0						1	0
 			bdg_space_reactor_crafting_1	5193	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
 			bdg_space_reactor_crafting_2	5194	-1	-1	collections																	sound/music_acq_miner.snd	gray	0	0						0	0
