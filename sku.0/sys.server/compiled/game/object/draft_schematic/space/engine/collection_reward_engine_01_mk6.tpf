@@ -11,7 +11,7 @@
 
 itemsPerContainer = 0
 category = CT_space
-craftedObjectTemplate = "object/tangible/ship/crafted/engine/collection_reward_engine_01_mk3.iff"
+craftedObjectTemplate = "object/tangible/ship/crafted/engine/collection_reward_engine_01_mk6.iff"
 slots = [
 	[
 	optional = false,
