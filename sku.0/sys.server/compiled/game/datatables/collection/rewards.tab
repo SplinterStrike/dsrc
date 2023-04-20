@@ -55,7 +55,7 @@ kill_krayt_dragons_01	0.3		krayt_dragon_ferocious_complete,krayt_dragon_cold_blo
 kill_rancors_01	0.3		rancor_complete											object/tangible/ship/crafted/reactor/collection_reward_reactor_02_mk2.iff	crafted_space_reactor_mk2_reward		Player Title and a large amount of XP
 kill_torturs_01	0.3		tortur_complete											object/tangible/ship/crafted/reactor/collection_reward_reactor_02_mk3.iff	crafted_space_reactor_mk3_reward		Player Title and a large amount of XP
 kill_tulruses_01	0.3		tulrus_complete											object/tangible/ship/crafted/reactor/collection_reward_reactor_02_mk4.iff	crafted_space_reactor_mk4_reward		Player Title and a large amount of XP
-kill_grauls_01	0.3		graul_complete														Player Title and a large amount of XP
+kill_grauls_01	0.3		graul_complete											object/tangible/ship/crafted/engine/collection_reward_engine_01_mk6.iff	crafted_space_engine_mk6_reward		Player Title and a large amount of XP
 kill_rodent_tier_2	0		bdg_col_kill_rodents,rodent_tier_2_complete		item_dna_kittle												Ridding the Galaxy of pesky rodents one by one: Badge, Rare DNA
 kill_insect_tier_2	0		bdg_col_kill_insects,insect_tier_2_complete		item_dna_webweaver												The Qorkin Man is no match for your unconventional tactics of ridding the Galaxy of diseased insects: Badge, Rare DNA
 kill_flying_tier_2	0		bdg_col_kill_flying,flying_tier_2_complete		item_dna_mouf												Since you don't have wings, you decide to collect them from other unfortunate beings: Badge, Rare DNA
