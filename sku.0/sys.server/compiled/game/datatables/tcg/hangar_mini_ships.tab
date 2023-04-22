@@ -23,6 +23,7 @@ player_blacksun_vaksai	object/tangible/tcg/series5/hangar_ships/black_sun_fighte
 player_bwing	object/tangible/tcg/series5/hangar_ships/bwing.iff
 player_decimator	object/tangible/tcg/series5/hangar_ships/vt49_decimator.iff
 player_firespray	object/tangible/tcg/series5/hangar_ships/kse_firespray.iff
+player_firespray_s02	object/tangible/tcg/series5/hangar_ships/kse_firespray_s02.iff
 player_grievous_starship	object/tangible/tcg/series5/hangar_ships/grievous_starship.iff
 player_gunship_imperial	object/tangible/tcg/series5/hangar_ships/imperial_gunboat.iff
 player_gunship_neutral	object/tangible/tcg/series5/hangar_ships/black_sun_transport.iff
