@@ -510,6 +510,8 @@ object/tangible/ship/components/engine/eng_gallofree_advanced.iff			engine1
 object/tangible/ship/components/engine/eng_gallofree_jx2.iff			engine1
 object/tangible/ship/components/engine/eng_gallofree_jx3.iff			engine1
 object/tangible/ship/components/engine/eng_haor_chall_old_engine.iff			engine1
+object/tangible/ship/components/engine/eng_hk_5j.iff			engine1
+object/tangible/ship/components/engine/eng_incom_6x4_fusialthrust.iff			engine1
 object/tangible/ship/components/engine/eng_incom_advanced.iff			engine1
 object/tangible/ship/components/engine/eng_incom_advanced_fusialthrust.iff			engine1
 object/tangible/ship/components/engine/eng_incom_elite.iff			engine1
@@ -604,6 +606,7 @@ object/tangible/ship/components/engine/engine_koensayr_ionjet.iff			engine1
 object/tangible/ship/components/engine/engine_kongar_defender.iff			engine1
 object/tangible/ship/components/engine/engine_kuat_a9x.iff			engine1
 object/tangible/ship/components/engine/engine_kuat_f31.iff			engine1
+object/tangible/ship/components/engine/eng_kuat_sol.iff			engine1
 object/tangible/ship/components/engine/engine_kuat_tc40.iff			engine1
 object/tangible/ship/components/engine/engine_novaldex_singularity.iff			engine1
 object/tangible/ship/components/engine/engine_novaldex_x12.iff			engine1

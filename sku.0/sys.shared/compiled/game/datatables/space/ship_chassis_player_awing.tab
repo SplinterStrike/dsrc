@@ -285,7 +285,10 @@ collection_reward_engine_01_mk3	awing_engine_s02:engine1
 collection_reward_engine_01_mk4	awing_engine_s02:engine1		
 collection_reward_engine_01_mk5	awing_engine_s02:engine1		
 eng_t86_shooting_star	awing_engine_s01:engine1		
-eng_kuat_m24	awing_engine_s01:engine1		
+eng_kuat_m24	awing_engine_s01:engine1
+eng_incom_6x4_fusialthrust	awing_engine_s03:engine1
+eng_hk_5j	awing_engine_s03:engine1
+eng_kuat_sol	awing_engine_s03:engine1		
 wpn_advanced_blaster			awing_weapon_s05:weapon1
 wpn_advanced_blaster_green			awing_weapon_s05:weapon1
 wpn_advanced_disruptor			awing_weapon_s01:weapon1

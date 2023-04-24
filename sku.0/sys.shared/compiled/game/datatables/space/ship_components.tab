@@ -1235,3 +1235,6 @@ rct_cygnus_experimental	object/tangible/ship/components/reactor/rct_cygnus_exper
 adv_mandal_armor_plating	object/tangible/ship/crafted/armor/adv_mandal_armor_plating.iff	object/tangible/ship/crafted/armor/shared_adv_mandal_armor_plating.iff	armor	arm_0
 fusion_reactor_mandal	object/tangible/ship/crafted/reactor/fusion_reactor_mandal.iff	object/tangible/ship/crafted/reactor/shared_fusion_reactor_mandal.iff	reactor	rct_0
 eng_reward_experimental	object/tangible/ship/crafted/engine/eng_reward_experimental.iff	object/tangible/ship/crafted/engine/shared_eng_reward_experimental.iff	engine	eng_0
+eng_incom_6x4_fusialthrust	object/tangible/ship/components/engine/eng_incom_6x4_fusialthrust.iff	object/tangible/ship/components/engine/shared_eng_incom_6x4_fusialthrust.iff	engine	eng_0
+eng_hk_5j	object/tangible/ship/components/engine/eng_hk_5j.iff	object/tangible/ship/components/engine/shared_eng_hk_5j.iff	engine	eng_0
+eng_kuat_sol	object/tangible/ship/components/engine/engine_kuat_sol.iff	object/tangible/ship/components/engine/shared_engine_kuat_sol.iff	engine	eng_0
