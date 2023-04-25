@@ -1159,6 +1159,7 @@ public class space_utils extends script.base_script
             case "twing":
                 return "@skl_n:pilot_rebel_navy_starships_04";
             case "bwing":
+            case "bwing_s02":
             case "yk137r":
             case "gunship_rebel":
                 return "@skl_n:pilot_rebel_navy_master";
