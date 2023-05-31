@@ -10,7 +10,6 @@ blacksun_light_s02	blacksun_light	black_sun_fighter_light_body_s01	blacksun_ligh
 blacksun_light_s03	blacksun_light	black_sun_fighter_light_body_s02	blacksun_light_s03
 blacksun_light_s04	blacksun_light	black_sun_fighter_light_body_s02	blacksun_light_s04
 bwing	bwing	bwing_cockpit_pod	bwing
-bwing_s02	bwing	bwing_cockpit_pod	bwing_s02
 decimator	decimator	vt49_r0	decimator
 droid_fighter	droid_fighter	droid_fighter	droid_fighter
 escape_pod	escape_pod	escape_pod	escape_pod

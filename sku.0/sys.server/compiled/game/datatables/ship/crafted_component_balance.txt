@@ -12,7 +12,6 @@ ywing	15	0.75
 ywing_longprobe	17	0.85									
 tiebomber	19	0.95									
 bwing	24	1.2									
-bwing_s02	24	1.2									
 hutt_heavy_s01	11	0.45									
 hutt_heavy_s02	11	0.45									
 blacksun_heavy_s01	19	0.65	
