@@ -17,14 +17,14 @@ public class splinter_test extends script.base_script
             sendSystemMessageTestingOnly(self, "Customized: " + getName(objShip));
             
             String index = "/shared_owner/index_texture_1";
-            hue.setRangedIntCustomVar(objShip, index, utils.StringToInt(tok.nextToken()));
+            setRangedIntCustomVar(objShip, index, utils.StringToInt(tok.nextToken()));
         
             if(tok.hasMoreTokens()){                
-                hue.setColor(objShip, "/shared_owner/index_color_1", utils.StringToInt(tok.nextToken()));
+                setColor(objShip, "/shared_owner/index_color_1", utils.StringToInt(tok.nextToken()));
             }
 
             if(tok.hasMoreTokens()){                
-                hue.setColor(objShip, "/shared_owner/index_color_2", utils.StringToInt(tok.nextToken()));
+                setColor(objShip, "/shared_owner/index_color_2", utils.StringToInt(tok.nextToken()));
             }
         }
         java.util.StringTokenizer tok = new java.util.StringTokenizer(text);
