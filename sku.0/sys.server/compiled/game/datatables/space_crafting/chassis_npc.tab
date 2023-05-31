@@ -12,6 +12,7 @@ tiebomber	50000	TIE Bomber	pilot_imperial_navy_starships_03
 tieoppressor	100000	TIE Oppressor	pilot_imperial_navy_master
 awing	75000	A-Wing	pilot_rebel_navy_starships_04
 bwing	100000	B-Wing	pilot_rebel_navy_master
+bwing_s02	100000	B-Wing	pilot_rebel_navy_master
 ywing	15000	Y-Wing	pilot_rebel_navy_starships_01
 firespray	100000	KSE Firespray	
 yt1300	100000	YT-1300	pilot_neutral_master
