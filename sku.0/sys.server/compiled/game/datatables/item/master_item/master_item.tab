@@ -8568,3 +8568,4 @@ armor_infiltrator_gloves_02	object/tangible/wearables/armor/infiltrator/armor_in
 armor_infiltrator_boots_02	object/tangible/wearables/armor/infiltrator/armor_infiltrator_s02_boots.iff	armor		90				4							
 armor_infiltrator_belt_02	object/tangible/wearables/armor/infiltrator/armor_infiltrator_s02_belt.iff	armor		90				4							
 item_tauntaun_dna	object/tangible/loot/beast/dna_container.iff							4		systems.beast.cs_dna			DNA Storage Device (Tauntaun)	Device that stores harvested DNA cores.	
+item_kse_heavy_repeater_cannon_schematic	object/tangible/loot/loot_schematic/generic_limited_use.iff							3		item.loot_schematic.loot_schematic		1	Schematic for a KSE Heavy Repeater Cannon	A schematic for a KSE Heavy Repeater Cannon, recovered from the black market.	

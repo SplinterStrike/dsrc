@@ -1209,6 +1209,7 @@ public class space_utils extends script.base_script
             case "tiedefender":
                 return "@skl_n:pilot_imperial_navy_master";
             case "firespray":
+            case "firespray_s02":
                 return "@space_crafting_n:all_master";
             default:
                 return "";

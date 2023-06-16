@@ -1248,3 +1248,4 @@ object/tangible/ship/crafted/weapon/wpn_borstel_experimental.iff	@cmd_n:cert_ord
 object/tangible/ship/crafted/engine/eng_reward_experimental.iff	@cmd_n:cert_ordnance_level9
 object/tangible/ship/crafted/armor/adv_mandal_armor_plating.iff	@cmd_n:cert_ordnance_level7
 object/tangible/ship/crafted/reactor/fusion_reactor_mandal.iff	@cmd_n:cert_ordnance_level7
+object/tangible/ship/crafted/weapon/wpn_kse_heavy_repeater_cannon.iff	@cmd_n:cert_ordnance_levelten

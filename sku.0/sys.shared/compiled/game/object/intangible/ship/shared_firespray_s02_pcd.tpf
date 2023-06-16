@@ -6,5 +6,5 @@
 
 objectName = "space_item_n"  "firespray_s02_pcd"
 detailedDescription = "space_item_n" "firespray_s02_pcd"
-appearanceFilename = "appearance/kse_firespray_body.apt"
+appearanceFilename = "appearance/kse_firespray_body_s02.apt"
 clientDataFile = "clientData/ship/pcd/client_shared_firespray_s02_pcd.cdf"
