@@ -1,5 +1,5 @@
 
-@base object/ship/player_firespray_s02.iff
+@base object/ship/firespray_s02.iff
 
 @class ship_object_template 1
 
