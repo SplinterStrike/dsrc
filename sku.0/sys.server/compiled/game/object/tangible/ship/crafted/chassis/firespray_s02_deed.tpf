@@ -6,7 +6,7 @@
 
 sharedTemplate = "object/tangible/ship/crafted/chassis/shared_firespray_s02_deed.iff"
 
-objvars =+ [ "ship_chassis.type" = firespray_s02, "ship_chassis.mass" = 260000.0, "ship_chassis.hp" = 3000.0 ]
+objvars =+ [ "ship_chassis.type" = "firespray_s02", "ship_chassis.mass" = 260000.0, "ship_chassis.hp" = 3000.0 ]
 
 moveFlags = [ MF_player ]
 
