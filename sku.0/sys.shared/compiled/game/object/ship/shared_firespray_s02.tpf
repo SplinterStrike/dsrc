@@ -11,7 +11,7 @@ objectName = "" "firespray swg-sw test"
 detailedDescription = ""  ""
 lookAtText = ""  "firespray swg-se test"
 
-appearanceFilename = "appearance/kse_firespray_body_s02.apt"
+appearanceFilename = "appearance/kse_firespray_body.apt"
 
 
 
