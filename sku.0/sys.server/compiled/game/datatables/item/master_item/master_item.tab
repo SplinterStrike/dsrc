@@ -8568,4 +8568,4 @@ armor_infiltrator_gloves_02	object/tangible/wearables/armor/infiltrator/armor_in
 armor_infiltrator_boots_02	object/tangible/wearables/armor/infiltrator/armor_infiltrator_s02_boots.iff	armor		90				4							
 armor_infiltrator_belt_02	object/tangible/wearables/armor/infiltrator/armor_infiltrator_s02_belt.iff	armor		90				4							
 item_tauntaun_dna	object/tangible/loot/beast/dna_container.iff							4		systems.beast.cs_dna			DNA Storage Device (Tauntaun)	Device that stores harvested DNA cores.	
-item_schematic_delta7	object/tangible/loot/loot_schematic/generic_limited_use.iff							1		item.loot_schematic.loot_schematic		1	Schematic for a Delta-7 Aethersprite Chassis	Schematic for a Delta-7 Aethersprite Starfighter Chassis earned by tracking down and eliminating a Black Sun smuggling operation.	
+item_delta7_schematic	object/tangible/loot/loot_schematic/generic_limited_use.iff							1		item.loot_schematic.loot_schematic		1	Schematic for a Delta-7 Aethersprite Chassis	Schematic for a Delta-7 Aethersprite Starfighter Chassis earned by tracking down and eliminating a Black Sun smuggling operation.	
