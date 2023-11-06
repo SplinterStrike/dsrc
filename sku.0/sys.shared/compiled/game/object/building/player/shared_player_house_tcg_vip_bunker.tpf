@@ -6,7 +6,7 @@
 @class tangible_object_template 4
 
 
-structureFootprintFileName = "footprint/building/player/shared_tcg_relaxation_pool.sfp"
+structureFootprintFileName = "shared_player_house_generic_small_style_01.sfp"
 
 @class object_template 6
 clearFloraRadius = 38
