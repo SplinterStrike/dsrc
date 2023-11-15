@@ -7809,7 +7809,10 @@ item_pgc_planet_hologram_corellia	object/tangible/saga_system/rewards/planet_hol
 item_pgc_planet_hologram_dantooine	object/tangible/saga_system/rewards/planet_hologram_dantooine.iff							4					Large Hologram of Dantooine	House Object: a Large Hologram of Dantooine.	
 item_pgc_planet_hologram_dathomir	object/tangible/saga_system/rewards/planet_hologram_dathomir.iff							4					Large Hologram of Dathomir	House Object: a Large Hologram of Dathomir.	
 item_pgc_planet_hologram_endor	object/tangible/saga_system/rewards/planet_hologram_endor.iff							4					Large Hologram of Endor	House Object: a Large Hologram of Endor.	
+item_pgc_planet_hologram_hoth	object/tangible/saga_system/rewards/planet_hologram_hoth.iff							4					Large Hologram of Hoth	House Object: a Large Hologram of Hoth.	
+item_pgc_planet_hologram_kashyyyk	object/tangible/saga_system/rewards/planet_hologram_kashyyyk.iff							4					Large Hologram of Kashyyyk	House Object: a Large Hologram of Kashyyyk	
 item_pgc_planet_hologram_lok	object/tangible/saga_system/rewards/planet_hologram_lok.iff							4					Large Hologram of Lok	House Object: a Large Hologram of Lok.	
+item_pgc_planet_hologram_mustafar	object/tangible/saga_system/rewards/planet_hologram_mustafar.iff							4					Large Hologram of Mustafar	House Object: a Large Hologram of Mustafar	
 item_pgc_planet_hologram_naboo	object/tangible/saga_system/rewards/planet_hologram_naboo.iff							4					Large Hologram of Naboo	House Object: a Large Hologram of Naboo.	
 item_pgc_planet_hologram_rori	object/tangible/saga_system/rewards/planet_hologram_rori.iff							4					Large Hologram of Rori	House Object: a Large Hologram of Rori.	
 item_pgc_planet_hologram_talus	object/tangible/saga_system/rewards/planet_hologram_talus.iff							4					Large Hologram of Talus	House Object: a Large Hologram of Talus.	
@@ -7819,7 +7822,10 @@ item_pgc_planet_hologram_corellia_02	object/tangible/saga_system/rewards/planet_
 item_pgc_planet_hologram_dantooine_02	object/tangible/saga_system/rewards/planet_hologram_dantooine_02.iff							4					Hologram of Dantooine	House Object: a Hologram of Dantooine.	
 item_pgc_planet_hologram_dathomir_02	object/tangible/saga_system/rewards/planet_hologram_dathomir_02.iff							4					Hologram of Dathomir	House Object: a Hologram of Dathomir.	
 item_pgc_planet_hologram_endor_02	object/tangible/saga_system/rewards/planet_hologram_endor_02.iff							4					Hologram of Endor	House Object: a Hologram of Endor.	
+item_pgc_planet_hologram_hoth_02	object/tangible/saga_system/rewards/planet_hologram_hoth_02.iff							4					Hologram of Hoth	House Object: a Hologram of Hoth.	
+item_pgc_planet_hologram_kashyyyk_02	object/tangible/saga_system/rewards/planet_hologram_kashyyyk_02.iff							4					Hologram of Kashyyyk	House Object: a Hologram of Kashyyyk.	
 item_pgc_planet_hologram_lok_02	object/tangible/saga_system/rewards/planet_hologram_lok_02.iff							4					Hologram of Lok	House Object: a Hologram of Lok.	
+item_pgc_planet_hologram_mustafar_02	object/tangible/saga_system/rewards/planet_hologram_mustafar_02.iff							4					Hologram of Mustafar	House Object: a Hologram of Mustafar.	
 item_pgc_planet_hologram_naboo_02	object/tangible/saga_system/rewards/planet_hologram_naboo_02.iff							4					Hologram of Naboo	House Object: a Hologram of Naboo.	
 item_pgc_planet_hologram_rori_02	object/tangible/saga_system/rewards/planet_hologram_rori_02.iff							4					Hologram of Rori	House Object: a Hologram of Rori.	
 item_pgc_planet_hologram_talus_02	object/tangible/saga_system/rewards/planet_hologram_talus_02.iff							4					Hologram of Talus	House Object: a Hologram of Talus.	
