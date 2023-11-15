@@ -11,7 +11,7 @@ objectName = "frn_n" "stage_controller"
 
 detailedDescription = "frn_d" "stage_controller"
 
-appearanceFilename = "appearance/thm_prp_professor_desk.apt"
+appearanceFilename = "appearance/frn_tech_command_console_s01.apt"
 
 portalLayoutFilename = ""
 
