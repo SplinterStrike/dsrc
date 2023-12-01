@@ -1,0 +1,15 @@
+// This file was copied from lifeday_painting_s02
+
+@base object/tangible/furniture/base/shared_furniture_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 5
+
+objectName = "item_n" "kashyyyk_wooden_fencing_n"
+
+detailedDescription = "item_n" "kashyyyk_wooden_fencing_d"
+
+appearanceFilename = "appearance/thm_dant_fence_4m.apt"
+
+portalLayoutFilename = ""

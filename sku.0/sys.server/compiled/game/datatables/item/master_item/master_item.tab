@@ -8574,3 +8574,39 @@ armor_infiltrator_gloves_02	object/tangible/wearables/armor/infiltrator/armor_in
 armor_infiltrator_boots_02	object/tangible/wearables/armor/infiltrator/armor_infiltrator_s02_boots.iff	armor		90				4							
 armor_infiltrator_belt_02	object/tangible/wearables/armor/infiltrator/armor_infiltrator_s02_belt.iff	armor		90				4							
 item_tauntaun_dna	object/tangible/loot/beast/dna_container.iff							4		systems.beast.cs_dna			DNA Storage Device (Tauntaun)	Device that stores harvested DNA cores.	
+kashyyyk_cauldron	object/tangible/furniture/kashyyyk/kashyyyk_cauldron.iff							3		item.special.nomove		0	Cauldron	A cauldron	
+kashyyyk_chief_firepit	object/tangible/furniture/kashyyyk/kashyyyk_chief_firepit.iff							3		item.special.nomove		0	Chief Firepit	A fireplace used by a Wookiee chieftain.	
+fish_rack	object/tangible/furniture/kashyyyk/kashyyyk_fish_rack.iff							3		item.special.nomove		0	Fish Rack	A rack of fish	
+kashyyyk_medical_table_style_1	object/tangible/furniture/kashyyyk/medical_table_s01.iff							3		item.special.nomove		0	Kashyyk Medical Table (Style 1)	A Kashyyyk styled medical table.	
+kashyyyk_medical_table_style_2	object/tangible/furniture/kashyyyk/medical_table_s02.iff							3		item.special.nomove		0	Kashyyk Medical Table (Style 1)	A Kashyyyk styled medical table.	
+kashyyyk_place_setting	object/tangible/furniture/kashyyyk/kashyyyk_place_setting.iff							3		item.special.nomove		0	Dinner Plate and Cutlery	A set of plates and cutlery.	
+restraining_chair_style_1	object/tangible/furniture/kashyyyk/restraining_chair_s01.iff							3		item.special.nomove		0	Restraining Chair (Style 1)	A restraining chair.	
+restraining_chair_style_2	object/tangible/furniture/kashyyyk/restraining_chair_s02.iff							3		item.special.nomove		0	Restraining Chair (Style 2)	A restraining chair.	
+kashyyyk_wall_bristly	object/tangible/furniture/kashyyyk/kashyyyk_wall_bristly.iff							3		item.special.nomove		0	Kashyyyk Wall (Bristly)	A Kashyyyk styled bristly wall panel.	
+kashyyyk_wall_fur	object/tangible/furniture/kashyyyk/kashyyyk_wall_fur.iff							3		item.special.nomove		0	Kashyyyk Wall (Fur)	A Kashyyyk styled fur wall panel.	
+kashyyyk_wall_leather	object/tangible/furniture/kashyyyk/kashyyyk_wall_leather.iff							3		item.special.nomove		0	Kashyyyk Wall (Leather)	A Kashyyyk styled leather wall panel.	
+kashyyyk_wall_scaley	object/tangible/furniture/kashyyyk/kashyyyk_wall_scaley.iff							3		item.special.nomove		0	Kashyyyk Wall (Scaley)	A Kashyyyk styled scaley wall panel.	
+kashyyyk_wall_wood_style_1	object/tangible/furniture/kashyyyk/kashyyyk_wall_wood_s01.iff							3		item.special.nomove		0	Kashyyyk Wall (Wooden - Style 1)	A Kashyyyk styled wooden wall panel. (Style 1)	
+kashyyyk_wall_wood_style_2	object/tangible/furniture/kashyyyk/kashyyyk_wall_wood_s02.iff							3		item.special.nomove		0	Kashyyyk Wall (Wooden - Style 2)	A Kashyyyk styled wooden wall panel. (Style 2)	
+kashyyyk_wooden_fencing	object/tangible/furniture/kashyyyk/kashyyyk_wooden_fencing.iff							3		item.special.nomove		0	Fencing	A Kashyyyk styled wooden fencing.	
+kashyyyk_wooden_wheel_rack	object/tangible/furniture/kashyyyk/kashyyyk_wooden_wheel_rack.iff							3		item.special.nomove		0	Wooden Wheel Rack	A wheel rack, mostly used for grinding.	
+kashyyyk_wookiee_loom	object/tangible/furniture/kashyyyk/kashyyyk_wookiee_loom.iff							3		item.special.nomove		0	Wookiee Loom	A Wookiee loom.	
+wooden_chair_style_1	object/tangible/furniture/kashyyyk/wooden_chair_s01.iff							3		item.special.nomove		0	Wooden Chair (Style 1)	A variation of common wooden chairs.	
+wooden_chair_style_2	object/tangible/furniture/kashyyyk/wooden_chair_s02.iff							3		item.special.nomove		0	Wooden Chair (Style 2)	A variation of common wooden chairs.	
+worn_cylindrical_table	object/tangible/furniture/tatooine/droid_magnet.iff							3		item.special.nomove		0	Droid Magnet	A droid magnet, used commonly by the Jawas of Tatooined, however when off it is often used as a cylindrical table, albeit worn.	
+st_pr_kashyyyk_arch	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Kashyyyk Arch	This item will create a Kashyyyk styled arch.	
+st_pr_kashyyyk_fish_rack	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Fish Rack	This item will create a rack of fish.	
+st_pr_kashyyyk_hut_destroyed	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Kashyyyk Hut	This item will create a traditional Wookiee hut.	
+st_pr_kashyyyk_hut	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Destroyed Kashyyyk Hut	This item will create a destroyed Kashyyyk hut.	
+st_pr_kashyyyk_myyydril_banner	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Myyydril Banner	This item will create a Myyydril Banner, used by the exiled Wookiee Tribe within the Myyydril Caverns.	
+st_pr_kashyyyk_myyydril_hut	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Myyydril Hut	This item will create a Myyydril Hut, used mostly by the exiled Wookiee Tribe within the Myyydril Caverns.	
+st_pr_kashyyyk_nasllas_pillar_central	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Nak'tra Pillar (Central)	This item will create a Kashyyyk Nak'tra Pillar.	
+st_pr_kashyyyk_nasllas_pillar_small	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Nak'tra Pillar (Small)	This item will create a Kashyyyk Nak'tra Pillar.	
+st_pr_kashyyyk_rodian_camp	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Rodian Camp	This item will create a Rodian Camp module. Used mainly by the Rodians on Kashyyyk.	
+st_pr_kashyyyk_sayormi_hut	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Sayormi Hut	This item will create a Sayormi Hut, used by the mysterious Sayormi Tribe on Kashyyyk.	
+st_pr_kashyyyk_scarecrow_s02	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Scarecrow Style 2	This item will create a Kashyyyk styled scarecrow. (Style 2).	
+st_pr_kashyyyk_speaker	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Kashyyyk Speaker	This item will create a Kashyyyk speaker.	
+st_pr_kashyyyk_torch	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Kashyyyk Torch	This item will create a variation of torch, seen mainly on Kashyyyk.	
+st_pr_kashyyyk_wall_wood_s01	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Kashyyyk Wall (Wooden - Style 1)	This item will create a Kashyyyk styled wooden wall panel (Style 1).	
+st_pr_kashyyyk_wall_wood_s02	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Kashyyyk Wall (Wooden - Style 2)	This item will create a Kashyyyk styled wooden wall panel (Style 2).	
+st_pr_kashyyyk_wooden_fencing	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Fencing	This item will create a Kashyyyk styled wooden fencing.	
