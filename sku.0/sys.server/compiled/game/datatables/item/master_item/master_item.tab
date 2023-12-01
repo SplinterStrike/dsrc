@@ -8610,3 +8610,4 @@ st_pr_kashyyyk_torch	object/tangible/storyteller/story_token_prop.iff	storytelle
 st_pr_kashyyyk_wall_wood_s01	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Kashyyyk Wall (Wooden - Style 1)	This item will create a Kashyyyk styled wooden wall panel (Style 1).	
 st_pr_kashyyyk_wall_wood_s02	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Kashyyyk Wall (Wooden - Style 2)	This item will create a Kashyyyk styled wooden wall panel (Style 2).	
 st_pr_kashyyyk_wooden_fencing	object/tangible/storyteller/story_token_prop.iff	storyteller						1		object.autostack	2	0	Fencing	This item will create a Kashyyyk styled wooden fencing.	
+lancer_frigate_holo	object/tangible/furniture/decorative/hologram_lancer_frigate.iff							4					Hologram of a Lancer Frigate	The Lancer-class frigate was a 250 meter long capital ship used for anti-starfighter operations in the Imperial Navy.	
