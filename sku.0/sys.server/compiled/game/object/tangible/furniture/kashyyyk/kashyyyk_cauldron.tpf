@@ -1,0 +1,10 @@
+// This file was copied from object/tangible/furniture/ep3_rewards/ritual_fire_pit.tpf
+
+@base object/tangible/furniture/base/furniture_base.iff
+
+@class tangible_object_template 0
+
+@class object_template 2
+
+
+sharedTemplate = "object/tangible/furniture/kashyyyk/shared_kashyyyk_cauldron.iff"
