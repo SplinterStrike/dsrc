@@ -1,0 +1,15 @@
+// This file was copied from lifeday_painting_s02
+
+@base object/tangible/furniture/base/shared_furniture_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 5
+
+objectName = "item_n" "kashyyyk_wookiee_loom_n"
+
+detailedDescription = "item_d" "kashyyyk_wookiee_loom_d"
+
+appearanceFilename = "appearance/frn_kash_wookiee_loom.apt"
+
+portalLayoutFilename = ""

@@ -1,0 +1,13 @@
+// 
+
+@base object/tangible/storyteller/prop/base/shared_storyteller_prop_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 10
+
+objectName = "item_n" "kashyyyk_arch_n"
+
+detailedDescription = "item_d" "kashyyyk_arch_d"
+
+appearanceFilename = "appearance/mun_kash_guard_platform.apt"

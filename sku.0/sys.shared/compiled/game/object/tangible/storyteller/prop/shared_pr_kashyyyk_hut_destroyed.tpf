@@ -1,0 +1,13 @@
+// 
+
+@base object/tangible/storyteller/prop/base/shared_storyteller_prop_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 10
+
+objectName = "item_n" "kashyyyk_hut_destroyed_n"
+
+detailedDescription = "item_d" "kashyyyk_hut_destroyed_d"
+
+appearanceFilename = "appearance/poi_kash_hut_generic_destroyed_s01.apt"

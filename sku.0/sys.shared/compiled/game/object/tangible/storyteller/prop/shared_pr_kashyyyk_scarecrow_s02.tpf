@@ -1,0 +1,13 @@
+// 
+
+@base object/tangible/storyteller/prop/base/shared_storyteller_prop_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 10
+
+objectName = "item_n" "kashyyyk_scarecrow_style_2_n"
+
+detailedDescription = "item_d" "kashyyyk_scarecrow_style_2_d"
+
+appearanceFilename = "appearance/poi_moon_scarecrow_s02.apt"

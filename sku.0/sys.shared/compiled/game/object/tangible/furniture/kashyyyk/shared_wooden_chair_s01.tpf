@@ -1,0 +1,15 @@
+// This file was copied from lifeday_painting_s02
+
+@base object/tangible/furniture/base/shared_furniture_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 5
+
+objectName = "item_n" "wooden_chair_style_1_n"
+
+detailedDescription = "item_d" "wooden_chair_style_1_d"
+
+appearanceFilename = "appearance/frn_tato_chair_cafe_s01.apt"
+
+portalLayoutFilename = ""
