@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_arch_n"
 
-detailedDescription = "item_n" "kashyyyk_arch_d"
+detailedDescription = "item_d" "kashyyyk_arch_d"
 
 appearanceFilename = "appearance/mun_kash_guard_platform.apt"

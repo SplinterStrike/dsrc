@@ -8,7 +8,7 @@
 
 objectName = "item_n" "wooden_chair_style_1_n"
 
-detailedDescription = "item_n" "wooden_chair_style_1_d"
+detailedDescription = "item_d" "wooden_chair_style_1_d"
 
 appearanceFilename = "appearance/frn_tato_chair_cafe_s01.apt"
 

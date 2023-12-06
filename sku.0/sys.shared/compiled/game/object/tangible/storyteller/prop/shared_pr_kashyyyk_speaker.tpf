@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_speaker_n"
 
-detailedDescription = "item_n" "kashyyyk_speaker_d"
+detailedDescription = "item_d" "kashyyyk_speaker_d"
 
 appearanceFilename = "appearance/kashyyyk_speaker.apt"

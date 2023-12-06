@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_wooden_wheel_rack_n"
 
-detailedDescription = "item_n" "kashyyyk_wooden_wheel_rack_d"
+detailedDescription = "item_d" "kashyyyk_wooden_wheel_rack_d"
 
 appearanceFilename = "appearance/thm_dant_cooking_stone.apt"
 

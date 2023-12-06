@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_wookiee_loom_n"
 
-detailedDescription = "item_n" "kashyyyk_wookiee_loom_d"
+detailedDescription = "item_d" "kashyyyk_wookiee_loom_d"
 
 appearanceFilename = "appearance/frn_kash_wookiee_loom.apt"
 

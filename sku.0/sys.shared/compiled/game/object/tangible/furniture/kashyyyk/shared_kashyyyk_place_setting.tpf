@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_datascreen_n"
 
-detailedDescription = "item_n" "kashyyyk_datascreen_d"
+detailedDescription = "item_d" "kashyyyk_datascreen_d"
 
 appearanceFilename = "appearance/eqp_comp_place_setting.apt"
 

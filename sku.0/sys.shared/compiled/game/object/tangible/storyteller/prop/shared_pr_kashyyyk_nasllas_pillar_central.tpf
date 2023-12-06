@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_naktra_pillar_n"
 
-detailedDescription = "item_n" "kashyyyk_naktra_pillar_d"
+detailedDescription = "item_d" "kashyyyk_naktra_pillar_d"
 
 appearanceFilename = "appearance/nasllas_pillar_central.apt"

@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_rodian_camp_n"
 
-detailedDescription = "item_n" "kashyyyk_rodian_camp_d"
+detailedDescription = "item_d" "kashyyyk_rodian_camp_d"
 
 appearanceFilename = "appearance/eqp_camping_pavilion_s1.apt"

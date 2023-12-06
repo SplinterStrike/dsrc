@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_chief_firepit_n"
 
-detailedDescription = "item_n" "kashyyyk_chief_firepit_d"
+detailedDescription = "item_d" "kashyyyk_chief_firepit_d"
 
 appearanceFilename = "appearance/poi_kash_shaman_ritual_fire.apt"
 

@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_hut_n"
 
-detailedDescription = "item_n" "kashyyyk_hut_d"
+detailedDescription = "item_d" "kashyyyk_hut_d"
 
 appearanceFilename = "appearance/poi_kash_hut_generic_s01.apt"

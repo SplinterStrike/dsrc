@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_wall_bristly_n"
 
-detailedDescription = "item_n" "kashyyyk_wall_bristly_d"
+detailedDescription = "item_d" "kashyyyk_wall_bristly_d"
 
 appearanceFilename = "appearance/thm_all_wall_divider_skin_bristly_s01.apt"
 

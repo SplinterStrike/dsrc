@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_myyydril_banner_n"
 
-detailedDescription = "item_n" "kashyyyk_myyydril_banner_d"
+detailedDescription = "item_d" "kashyyyk_myyydril_banner_d"
 
 appearanceFilename = "appearance/poi_sign_go_back.apt"

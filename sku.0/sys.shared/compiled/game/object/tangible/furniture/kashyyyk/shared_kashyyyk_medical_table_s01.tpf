@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_medical_table_style_1_n"
 
-detailedDescription = "item_n" "kashyyyk_medical_table_style_1_d"
+detailedDescription = "item_d" "kashyyyk_medical_table_style_1_d"
 
 appearanceFilename = "appearance/frn_kash_table_operating.apt"
 

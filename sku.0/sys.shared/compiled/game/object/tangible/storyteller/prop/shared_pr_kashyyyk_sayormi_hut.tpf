@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_sayormi_hut_n"
 
-detailedDescription = "item_n" "kashyyyk_sayormi_hut_d"
+detailedDescription = "item_d" "kashyyyk_sayormi_hut_d"
 
 appearanceFilename = "appearance/sayormi_tent.apt"

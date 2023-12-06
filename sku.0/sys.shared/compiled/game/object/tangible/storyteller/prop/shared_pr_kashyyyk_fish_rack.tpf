@@ -8,6 +8,6 @@
 
 objectName = "item_n" "fish_rack_n"
 
-detailedDescription = "item_n" "fish_rack_d"
+detailedDescription = "item_d" "fish_rack_d"
 
 appearanceFilename = "appearance/thm_dant_fish.apt"

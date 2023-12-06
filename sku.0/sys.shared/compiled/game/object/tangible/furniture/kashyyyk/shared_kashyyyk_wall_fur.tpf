@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_wall_fur_n"
 
-detailedDescription = "item_n" "kashyyyk_wall_fur_d"
+detailedDescription = "item_d" "kashyyyk_wall_fur_d"
 
 appearanceFilename = "appearance/thm_all_wall_divider_skin_wooly_s01.apt"
 

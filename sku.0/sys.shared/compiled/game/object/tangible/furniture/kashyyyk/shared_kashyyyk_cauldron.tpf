@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_cauldron_n"
 
-detailedDescription = "item_n" "kashyyyk_cauldron_d"
+detailedDescription = "item_d" "kashyyyk_cauldron_d"
 
 appearanceFilename = "appearance/poi_kash_roasting_spit.apt"
 

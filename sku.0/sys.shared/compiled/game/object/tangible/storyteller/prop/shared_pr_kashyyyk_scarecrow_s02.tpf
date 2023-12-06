@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_scarecrow_style_2_n"
 
-detailedDescription = "item_n" "kashyyyk_scarecrow_style_2_d"
+detailedDescription = "item_d" "kashyyyk_scarecrow_style_2_d"
 
 appearanceFilename = "appearance/poi_moon_scarecrow_s02.apt"

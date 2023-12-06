@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_wooden_fencing_n"
 
-detailedDescription = "item_n" "kashyyyk_wooden_fencing_d"
+detailedDescription = "item_d" "kashyyyk_wooden_fencing_d"
 
 appearanceFilename = "appearance/thm_dant_fence_4m.apt"
 

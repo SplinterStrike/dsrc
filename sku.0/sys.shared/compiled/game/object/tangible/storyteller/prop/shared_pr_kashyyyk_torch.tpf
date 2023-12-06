@@ -8,6 +8,6 @@
 
 objectName = "item_n" "kashyyyk_torch_n"
 
-detailedDescription = "item_n" "kashyyyk_torch_d"
+detailedDescription = "item_d" "kashyyyk_torch_d"
 
 appearanceFilename = "appearance/thm_endr_tiki_torch_s01.apt"

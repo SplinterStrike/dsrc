@@ -8,7 +8,7 @@
 
 objectName = "item_n" "restraining_chair_style_2_n"
 
-detailedDescription = "item_n" "restraining_chair_style_2_d"
+detailedDescription = "item_d" "restraining_chair_style_2_d"
 
 appearanceFilename = "appearance/frn_kash_restraining_table.apt"
 

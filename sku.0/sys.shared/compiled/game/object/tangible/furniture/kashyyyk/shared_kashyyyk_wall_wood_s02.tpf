@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_wall_wood_style_2_n"
 
-detailedDescription = "item_n" "kashyyyk_wall_wood_style_2_d"
+detailedDescription = "item_d" "kashyyyk_wall_wood_style_2_d"
 
 appearanceFilename = "appearance/thm_kash_arch_wood_s02.apt"
 

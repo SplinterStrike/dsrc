@@ -8,7 +8,7 @@
 
 objectName = "item_n" "kashyyyk_medical_table_style_2_n"
 
-detailedDescription = "item_n" "kashyyyk_medical_table_style_2_d"
+detailedDescription = "item_d" "kashyyyk_medical_table_style_2_d"
 
 appearanceFilename = "appearance/frn_kash_hospital_bed.apt"
 

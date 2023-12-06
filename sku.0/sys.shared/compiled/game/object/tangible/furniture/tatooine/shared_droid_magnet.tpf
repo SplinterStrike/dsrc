@@ -8,7 +8,7 @@
 
 objectName = "item_n" "droid_magnet_n"
 
-detailedDescription = "item_n" "droid_magnet_d"
+detailedDescription = "item_d" "droid_magnet_d"
 
 appearanceFilename = "appearance/thm_prp_droid_magnet.apt"
 
