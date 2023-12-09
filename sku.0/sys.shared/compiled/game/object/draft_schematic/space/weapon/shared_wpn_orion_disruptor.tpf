@@ -12,18 +12,18 @@
 attributes = [
 	[name = "crafting" "complexity", experiment = "" "", value = 36..36],
 	[name = "crafting" "xp", experiment = "" "", value = 1971..1971],
-	[name = "crafting" "hitPointsMax", experiment = "crafting" "exp_hp_max", value = 1049..1325],
+	[name = "crafting" "hitPointsMax", experiment = "crafting" "exp_hp_max", value = 749..817],
 	[name = "crafting" "efficiency", experiment = "" "", value = 1..1],
-	[name = "crafting" "mass", experiment = "crafting" "exp_mass", value = 34091..39620],
-	[name = "crafting" "armorHpMax", experiment = "crafting" "exp_armorhpmax", value = 524..662],
+	[name = "crafting" "mass", experiment = "crafting" "exp_mass", value = 35278..42477],
+	[name = "crafting" "armorHpMax", experiment = "crafting" "exp_armorhpmax", value = 749..817],
 	[name = "crafting" "energy_efficiency", experiment = "" "", value = 1..1],
-	[name = "crafting" "energy_maintenance", experiment = "crafting" "exp_energy_maintenance", value = 1511..1908],
-	[name = "crafting" "damage_max", experiment = "crafting" "exp_damage_max", value = 3058..3864],
-	[name = "crafting" "damage_min", experiment = "crafting" "exp_damage_min", value = 1888..2386],
-	[name = "crafting" "effective_shields", experiment = "crafting" "exp_shield_effectiveness", value = 620..660],
-	[name = "crafting" "effective_armor", experiment = "crafting" "exp_armor_effectiveness", value = 734..846],
-	[name = "crafting" "energy_per_shot", experiment = "crafting" "exp_energy_per_shot", value = 24..30],
-	[name = "crafting" "refire_rate", experiment = "crafting" "exp_refire", value = 324..410]]
+	[name = "crafting" "energy_maintenance", experiment = "crafting" "exp_energy_maintenance", value = 1520..1820],
+	[name = "crafting" "damage_max", experiment = "crafting" "exp_damage_max", value = 4370..5092],
+	[name = "crafting" "damage_min", experiment = "crafting" "exp_damage_min", value = 2708..3113],
+	[name = "crafting" "effective_shields", experiment = "crafting" "exp_shield_effectiveness", value = 721..830],
+	[name = "crafting" "effective_armor", experiment = "crafting" "exp_armor_effectiveness", value = 761..870],
+	[name = "crafting" "energy_per_shot", experiment = "crafting" "exp_energy_per_shot", value = 26..32],
+	[name = "crafting" "refire_rate", experiment = "crafting" "exp_refire", value = 341..382]]
 
 slots = [
 	[name = "craft_item_ingredients_n" "casing", hardpoint = ""],
