@@ -9,6 +9,8 @@
 
 objectName = "deed"  "item_factory"
 
+appearanceFilename = "mini_ins_factory_item.apt"
+
 detailedDescription = "deed_detail"  "item_factory"
 
 lookAtText = ""  ""

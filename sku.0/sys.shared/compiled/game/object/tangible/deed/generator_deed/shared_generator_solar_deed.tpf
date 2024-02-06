@@ -9,6 +9,8 @@
 
 objectName = "deed"  "solar_generator_deed_name"
 
+appearanceFilename = "mini_ins_pow_solar.apt"
+
 detailedDescription = "deed_detail"  "solar_generator_deed_name"
 
 lookAtText = ""  ""

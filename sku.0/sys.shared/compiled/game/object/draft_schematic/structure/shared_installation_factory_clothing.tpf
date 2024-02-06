@@ -25,6 +25,8 @@ craftedSharedTemplate="object/tangible/deed/factory_deed/shared_factory_clothing
 
 @class object_template 5
 
+appearanceFilename = "mini_ins_factory_clothing.apt"
+
 snapToTerrain = false
 containerType = CT_none
 tintPalette = ""
