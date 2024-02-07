@@ -9,8 +9,8 @@
 
 objectName = "deed"  "wind_generator_deed_name"
 
-appearanceFilename = "mini_ins_pow_wind.apt"
+appearanceFilename = "appearance/mini_ins_pow_wind.apt"
 
-detailedDescription = "deed_detail"  "wind_generator_deed_name"
+detailedDescription = "deed_detail"  "appearance/wind_generator_deed_name"
 
 lookAtText = ""  ""

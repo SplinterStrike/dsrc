@@ -9,7 +9,7 @@
 
 objectName = "deed"  "fusion_generator_deed_name"
 
-appearanceFilename = "mini_ins_pow_fusion_ion.apt"
+appearanceFilename = "appearance/mini_ins_pow_fusion_ion.apt"
 
 detailedDescription = "deed_detail"  "fusion_generator_deed_name"
 

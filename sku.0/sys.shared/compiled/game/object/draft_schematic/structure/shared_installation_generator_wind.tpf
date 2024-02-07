@@ -21,7 +21,7 @@ craftedSharedTemplate="object/tangible/deed/generator_deed/shared_generator_wind
 
 @class object_template 5
 
-appearanceFilename = "mini_ins_pow_wind.apt"
+appearanceFilename = "appearance/mini_ins_pow_wind.apt"
 
 snapToTerrain = false
 containerType = CT_none

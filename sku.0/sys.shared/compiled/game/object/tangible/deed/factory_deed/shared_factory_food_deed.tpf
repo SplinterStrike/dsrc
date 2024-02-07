@@ -9,7 +9,7 @@
 
 objectName = "deed"  "food_factory"
 
-appearanceFilename = "mini_ins_factory_organic.apt"
+appearanceFilename = "appearance/mini_ins_factory_organic.apt"
 
 detailedDescription = "deed_detail"  "food_factory"
 
