@@ -9,7 +9,7 @@
 
 objectName = "deed"  "ore_s1_harvester_deed_name"
 
-appearanceFilename = "appearance/mini_ins_min_moisture_sml.apt"
+appearanceFilename = "appearance/mini_ins_min_ore_sml.apt"
 
 detailedDescription = "deed_detail"  "ore_s1_harvester_deed_name"
 

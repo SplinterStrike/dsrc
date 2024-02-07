@@ -8,4 +8,4 @@ objectName = "deed"  "tatooine_cloning_deed"
 detailedDescription = "deed"  "tatooine_cloning_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_tato_cloning_facility_s01.apt"

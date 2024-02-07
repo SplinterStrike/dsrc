@@ -10,4 +10,4 @@ objectName = "deed"  "generic_guild_deed"
 detailedDescription = "deed"  "generic_guild_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_all_assoc_hall.apt"

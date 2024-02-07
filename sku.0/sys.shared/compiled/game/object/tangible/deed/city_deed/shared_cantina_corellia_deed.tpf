@@ -8,4 +8,4 @@ objectName = "deed"  "corellia_cantina_deed"
 detailedDescription = "deed"  "corellia_cantina_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_corl_cantina.apt"

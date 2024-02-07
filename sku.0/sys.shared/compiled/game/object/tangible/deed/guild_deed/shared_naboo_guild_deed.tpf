@@ -10,4 +10,4 @@ objectName = "deed"  "naboo_guild_deed"
 detailedDescription = "deed"  "naboo_guild_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_nboo_assoc_hall.apt"

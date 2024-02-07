@@ -8,4 +8,4 @@ objectName = "deed"  "naboo_shuttleport_deed"
 detailedDescription = "deed"  "naboo_shuttleport_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_nboo_shuttleport.apt"
