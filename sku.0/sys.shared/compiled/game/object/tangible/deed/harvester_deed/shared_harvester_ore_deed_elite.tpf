@@ -9,6 +9,8 @@
 
 objectName = "deed"  "ore_elite_harvester_deed_name"
 
+appearanceFilename = "appearance/mini_ins_min_moisture_lrg.apt"
+
 detailedDescription = "deed_detail"  "ore_elite_harvester_deed_name"
 
 lookAtText = ""  ""

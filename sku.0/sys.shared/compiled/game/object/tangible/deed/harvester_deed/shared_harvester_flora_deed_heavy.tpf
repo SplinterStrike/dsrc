@@ -9,6 +9,8 @@
 
 objectName = "deed"  "flora_harvester_heavy_deed_name"
 
+appearanceFilename = "appearance/mini_ins_min_flora_lrg.apt"
+
 detailedDescription = "deed_detail"  "flora_harvester_heavy_deed_name"
 
 lookAtText = ""  ""

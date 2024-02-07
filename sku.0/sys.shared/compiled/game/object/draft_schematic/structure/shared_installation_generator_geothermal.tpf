@@ -32,8 +32,6 @@ craftedSharedTemplate="object/tangible/deed/generator_deed/shared_generator_geot
 
 @class object_template 8
 
-appearanceFilename = "appearance/mini_ins_min_chem_sml.apt"
-
 snapToTerrain = false
 containerType = CT_none
 tintPalette = ""

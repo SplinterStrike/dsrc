@@ -9,6 +9,8 @@
 
 objectName = "deed"  "gas_harvester_medium_deed_name"
 
+appearanceFilename = "appearance/mini_ins_min_gas_med.apt"
+
 detailedDescription = "deed_detail"  "gas_harvester_medium_deed_name"
 
 lookAtText = ""  ""

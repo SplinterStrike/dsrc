@@ -9,6 +9,8 @@
 
 objectName = "deed"  "liquid_harvester_deed_name"
 
+appearanceFilename = "appearance/mini_ins_min_chem_sml.apt"
+
 detailedDescription = "deed_detail"  "liquid_harvester_deed_name"
 
 lookAtText = ""  ""

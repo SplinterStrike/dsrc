@@ -34,8 +34,6 @@ craftedSharedTemplate="object/tangible/deed/generator_deed/shared_generator_fusi
 
 @class object_template 8
 
-appearanceFilename = "appearance/mini_ins_pow_fusion_ion.apt"
-
 snapToTerrain = false
 containerType = CT_none
 tintPalette = ""
