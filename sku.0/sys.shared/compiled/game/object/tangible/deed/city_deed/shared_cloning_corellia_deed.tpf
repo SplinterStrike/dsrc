@@ -8,4 +8,4 @@ objectName = "deed"  "corellia_cloning_deed"
 detailedDescription = "deed"  "corellia_cloning_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/mini_corl_cloning_facility_s01.apt"
+appearanceFilename = "appearance/mini_corl_cloning_facility.apt"

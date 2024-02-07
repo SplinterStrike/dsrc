@@ -8,4 +8,4 @@ objectName = "deed"  "naboo_hospital_deed"
 detailedDescription = "deed"  "naboo_hospital_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/mini_nboo_hospital_s01.apt"
+appearanceFilename = "appearance/mini_nboo_hospital.apt"
