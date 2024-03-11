@@ -10,4 +10,4 @@ objectName = "deed"  "generic_house_large_deed"
 detailedDescription = "deed_detail"  "generic_house_large_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_all_house_lg_s01.apt"

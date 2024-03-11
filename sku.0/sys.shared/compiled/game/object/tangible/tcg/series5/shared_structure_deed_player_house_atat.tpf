@@ -10,4 +10,4 @@ objectName = "static_item_n" "item_tcg_loot_reward_series5_player_house_atat"
 
 detailedDescription = "static_item_d" "item_tcg_loot_reward_series5_player_house_atat"
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_all_atat_house.apt"

@@ -10,4 +10,4 @@ objectName = "deed"  "corellia_house_small_floor_2_deed"
 detailedDescription = "deed_detail"  "corellia_house_small_floor_2_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_corl_house_sm_s01.apt"

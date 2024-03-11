@@ -10,4 +10,4 @@ objectName = "static_item_n" "item_pgc_sandcrawler_house_deed"
 
 detailedDescription = "static_item_d" "item_pgc_sandcrawler_house_deed"
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_all_sandcrawler.apt"

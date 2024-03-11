@@ -11,4 +11,4 @@ objectName = "deed"  "tatooine_house_large_deed"
 detailedDescription = "deed_detail"  "tatooine_house_large_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_tato_house_lg_s01.apt"

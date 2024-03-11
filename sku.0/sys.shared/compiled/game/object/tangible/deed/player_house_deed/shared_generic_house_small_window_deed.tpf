@@ -9,4 +9,4 @@
 objectName = "deed" "generic_house_small_windowed_deed"
 detailedDescription = "deed_detail" "generic_house_small_windowed_deed"
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_all_house_sm_s01_window.apt"
