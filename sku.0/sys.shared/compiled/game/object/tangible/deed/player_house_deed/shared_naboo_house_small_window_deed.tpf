@@ -10,4 +10,4 @@ objectName = "deed"  "naboo_house_small_window_deed"
 detailedDescription = "deed_detail"  "naboo_house_small_window_deed"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/mini_nboo_house_sm_s01_window.apt"
+appearanceFilename = "appearance/mini_nboo_house_sm_s02_window.apt"

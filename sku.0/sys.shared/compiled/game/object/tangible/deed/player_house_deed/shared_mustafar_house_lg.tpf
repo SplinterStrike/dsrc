@@ -10,4 +10,4 @@ objectName = "deed" "mustafar_house_lg_n"
 detailedDescription = "deed_detail" "mustafar_house_lg_d"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/mini_all_house_lg_s03.apt"
+appearanceFilename = "appearance/mini_all_must_bunker.apt"
