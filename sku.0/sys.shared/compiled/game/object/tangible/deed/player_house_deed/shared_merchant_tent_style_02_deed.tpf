@@ -10,4 +10,4 @@ objectName = "deed"  "merchant_tent_2"
 detailedDescription = "deed_detail"  "merchant_tent"
 lookAtText = ""  ""
 
-appearanceFilename = "appearance/eqp_tool_datapad.apt"
+appearanceFilename = "appearance/mini_corl_merchant_tent.apt"
