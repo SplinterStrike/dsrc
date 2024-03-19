@@ -1,0 +1,17 @@
+// This file was copied from shared_frn_vet_x_wing_toy.tpf
+// Model is scaled to a 250m Lancer Frigate
+
+@base object/tangible/furniture/base/shared_furniture_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 5
+
+
+objectName = "frn_n"  "hologram_lancer_frigate"
+
+detailedDescription = "frn_d"  "hologram_lancer_frigate"
+
+appearanceFilename = "appearance/frn_hologram_lancer_frigate.apt"
+
+portalLayoutFilename = ""

@@ -1,0 +1,17 @@
+// This file was copied from shared_frn_vet_x_wing_toy.tpf
+// Model is scaled to a 300m Nebulon Frigate
+
+@base object/tangible/furniture/base/shared_furniture_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 5
+
+
+objectName = "frn_n"  "hologram_nebulon_frigate"
+
+detailedDescription = "frn_d"  "hologram_nebulon_frigate"
+
+appearanceFilename = "appearance/frn_hologram_nebulon_frigate.apt"
+
+portalLayoutFilename = ""

@@ -1,0 +1,16 @@
+// This file was copied from shared_frn_vet_x_wing_toy.tpf
+
+@base object/tangible/furniture/base/shared_furniture_base.iff
+
+@class tangible_object_template 6
+
+@class object_template 5
+
+
+objectName = "frn_n"  "hologram_spacestation_imperial_outpost"
+
+detailedDescription = "frn_d"  "hologram_spacestation_imperial_outpost"
+
+appearanceFilename = "appearance/frn_hologram_spacestation_imperial_outpost.apt"
+
+portalLayoutFilename = ""
