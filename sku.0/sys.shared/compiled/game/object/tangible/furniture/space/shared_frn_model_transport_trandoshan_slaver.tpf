@@ -11,6 +11,6 @@ objectName = "frn_n"  "model_transport_trandoshan_slaver"
 
 detailedDescription = "frn_d"  "model_transport_trandoshan_slaver"
 
-appearanceFilename = "appearance/frn_model_transport_trandoshan_slaver"
+appearanceFilename = "appearance/frn_model_transport_trandoshan_slaver.apt"
 
 portalLayoutFilename = ""
