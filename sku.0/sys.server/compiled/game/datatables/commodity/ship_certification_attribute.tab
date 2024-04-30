@@ -926,6 +926,7 @@ object/tangible/ship/components/weapon/wpn_taim_heavy_laser.iff	@cmd_n:cert_ordn
 object/tangible/ship/components/weapon/wpn_taim_ix4.iff	@cmd_n:cert_ordnance_level4
 object/tangible/ship/components/weapon/wpn_taim_ix5.iff	@cmd_n:cert_ordnance_level5
 object/tangible/ship/components/weapon/wpn_taim_kx5.iff	@cmd_n:cert_ordnance_level6
+object/tangible/ship/components/weapon/wpn_taim_kx5b_experimental.iff	@cmd_n:cert_ordnance_level7
 object/tangible/ship/components/weapon/wpn_taim_kx8.iff	@cmd_n:cert_ordnance_level7
 object/tangible/ship/components/weapon/wpn_taim_kx9.iff	@cmd_n:cert_ordnance_level9
 object/tangible/ship/components/weapon/wpn_tieadvanced_blaster.iff	@cmd_n:cert_ordnance_level2

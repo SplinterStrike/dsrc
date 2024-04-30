@@ -956,6 +956,7 @@ object/tangible/ship/components/weapon/wpn_taim_heavy_laser.iff			weapon1
 object/tangible/ship/components/weapon/wpn_taim_ix4.iff			weapon1
 object/tangible/ship/components/weapon/wpn_taim_ix5.iff			weapon1
 object/tangible/ship/components/weapon/wpn_taim_kx5.iff			weapon1
+object/tangible/ship/components/weapon/wpn_taim_kx5b_experimental.iff			weapon1
 object/tangible/ship/components/weapon/wpn_taim_kx8.iff			weapon1
 object/tangible/ship/components/weapon/wpn_taim_kx9.iff			weapon1
 object/tangible/ship/components/weapon/wpn_tieadvanced_blaster.iff			weapon1

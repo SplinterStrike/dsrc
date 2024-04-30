@@ -1180,6 +1180,7 @@ wpn_taim_heavy_laser	object/tangible/ship/components/weapon/wpn_taim_heavy_laser
 wpn_taim_ix4	object/tangible/ship/components/weapon/wpn_taim_ix4.iff	object/tangible/ship/components/weapon/shared_wpn_taim_ix4.iff	weapon	wpn_0
 wpn_taim_ix5	object/tangible/ship/components/weapon/wpn_taim_ix5.iff	object/tangible/ship/components/weapon/shared_wpn_taim_ix5.iff	weapon	wpn_0
 wpn_taim_kx5	object/tangible/ship/components/weapon/wpn_taim_kx5.iff	object/tangible/ship/components/weapon/shared_wpn_taim_kx5.iff	weapon	wpn_0
+wpn_taim_kx5b_experimental	object/tangible/ship/components/weapon/wpn_taim_kx5b_experimental.iff	object/tangible/ship/components/weapon/shared_wpn_taim_kx5b_experimental.iff	weapon	wpn_0
 wpn_taim_kx8	object/tangible/ship/components/weapon/wpn_taim_kx8.iff	object/tangible/ship/components/weapon/shared_wpn_taim_kx8.iff	weapon	wpn_0
 wpn_taim_kx9	object/tangible/ship/components/weapon/wpn_taim_kx9.iff	object/tangible/ship/components/weapon/shared_wpn_taim_kx9.iff	weapon	wpn_0
 wpn_tieadvanced_blaster	object/tangible/ship/components/weapon/wpn_tieadvanced_blaster.iff	object/tangible/ship/components/weapon/shared_wpn_tieadvanced_blaster.iff	weapon	wpn_0
