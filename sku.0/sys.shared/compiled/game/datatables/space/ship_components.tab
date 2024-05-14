@@ -314,6 +314,7 @@ cap_cygnus_cygcap_a	object/tangible/ship/components/weapon_capacitor/cap_cygnus_
 cap_cygnus_cygcap_b	object/tangible/ship/components/weapon_capacitor/cap_cygnus_cygcap_b.iff	object/tangible/ship/components/weapon_capacitor/shared_cap_cygnus_cygcap_b.iff	capacitor	cap_0
 cap_elite_capacitor	object/tangible/ship/crafted/capacitor/elite_capacitor.iff	object/tangible/ship/crafted/capacitor/shared_elite_capacitor.iff	capacitor	cap_0
 cap_freitek_xd2	object/tangible/ship/components/weapon_capacitor/cap_freitek_xd2.iff	object/tangible/ship/components/weapon_capacitor/shared_cap_freitek_xd2.iff	capacitor	cap_0
+cap_freitek_x7a	object/tangible/ship/components/weapon_capacitor/cap_freitek_x7a.iff	object/tangible/ship/components/weapon_capacitor/shared_cap_freitek_x7a.iff	capacitor	cap_0
 cap_gallofree_lt22	object/tangible/ship/components/weapon_capacitor/cap_gallofree_lt22.iff	object/tangible/ship/components/weapon_capacitor/shared_cap_gallofree_lt22.iff	capacitor	cap_0
 cap_generic	object/tangible/ship/components/weapon_capacitor/cap_generic.iff	object/tangible/ship/components/weapon_capacitor/shared_cap_generic.iff	capacitor	cap_0
 cap_gunship_mk1	object/tangible/ship/crafted/capacitor/gunship_capacitor_mk1.iff	object/tangible/ship/crafted/capacitor/shared_gunship_capacitor_mk1.iff	capacitor	cap_gunship

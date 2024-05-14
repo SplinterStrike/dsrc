@@ -13,6 +13,7 @@ object/tangible/ship/components/weapon_capacitor/cap_corellian_tuned_cruiser_gra
 object/tangible/ship/components/weapon_capacitor/cap_cygnus_cygcap_a.iff	Do not edit.	750	0.23	750	0.2	30	225	225	0.05	112.5	112.5	1	0.22	1000	0.13	1750	2
 object/tangible/ship/components/weapon_capacitor/cap_cygnus_cygcap_b.iff	Do not edit.	522.5	0.23	522.5	0.2	20.9	345	345	0.05	172.5	172.5	1	0.22	1050	0.13	2250	3
 object/tangible/ship/components/weapon_capacitor/cap_freitek_xd2.iff	Do not edit.	495	0.23	495	0.2	19.8	345	345	0.05	172.5	172.5	1	0.22	1050	0.13	2125	3
+object/tangible/ship/components/weapon_capacitor/cap_freitek_x7a.iff	Do not edit.	1550.25	0.0001	1550.25	0.25	39.93	1401.645	1401.645	0.05	700.8225	700.8225	1	0.25	1150	0.18	31395	8
 object/tangible/ship/components/weapon_capacitor/cap_gallofree_lt22.iff	Do not edit.	825	0.23	825	0.1	39.6	517.5	517.5	0.05	258.75	258.75	1	0.22	1050	0.13	4593.75	4
 object/tangible/ship/components/weapon_capacitor/cap_haor_chall_old_capacitor.iff	Do not edit.	350	0.23	350	0.2	14	105	105	0.05	52.5	52.5	1	0.22	700	0.13	700	1
 object/tangible/ship/components/weapon_capacitor/cap_huppla_pasa_tisc_old_capacitor.iff	Do not edit.	866.25	0.23	866.25	0.2	34.65	543.375	543.375	0.05	271.6875	271.6875	1	0.22	1100	0.13	4812.5	4

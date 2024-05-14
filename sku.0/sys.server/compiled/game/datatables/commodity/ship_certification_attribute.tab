@@ -952,6 +952,7 @@ object/tangible/ship/components/weapon_capacitor/cap_corellian_tuned_cruiser_gra
 object/tangible/ship/components/weapon_capacitor/cap_cygnus_cygcap_a.iff	@cmd_n:cert_ordnance_level2
 object/tangible/ship/components/weapon_capacitor/cap_cygnus_cygcap_b.iff	@cmd_n:cert_ordnance_level3
 object/tangible/ship/components/weapon_capacitor/cap_freitek_xd2.iff	@cmd_n:cert_ordnance_level3
+object/tangible/ship/components/weapon_capacitor/cap_freitek_x7a.iff	@cmd_n:cert_ordnance_level8
 object/tangible/ship/components/weapon_capacitor/cap_gallofree_lt22.iff	@cmd_n:cert_ordnance_level4
 object/tangible/ship/components/weapon_capacitor/cap_generic.iff	@cmd_n:cert_ordnance_level1
 object/tangible/ship/components/weapon_capacitor/cap_haor_chall_old_capacitor.iff	@cmd_n:cert_ordnance_level1
