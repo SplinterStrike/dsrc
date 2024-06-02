@@ -4,6 +4,6 @@
 
 @class object_template 8
 
-appearanceFilename = "rebel_gunboat_engines_s02.apt"
+appearanceFilename = "appearance/rebel_gunboat_engines_s02.apt"
 
 clientDataFile = "clientdata/ship/component/eng_gunship_rebel_s02.cdf"
