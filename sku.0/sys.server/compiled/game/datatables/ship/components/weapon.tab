@@ -114,7 +114,7 @@ object/tangible/ship/components/weapon/wpn_taim_heavy_laser.iff	Do not edit.	0.1
 object/tangible/ship/components/weapon/wpn_taim_ix4.iff	Do not edit.	0.12	761.25	0.12	1072.5	0.05	0.625	0.05	0.625	0.17	28.05	0.05	0.425	431.25	431.25	0.05	215.625	215.625	1	0.17	2040	0.17	4462.5	4
 object/tangible/ship/components/weapon/wpn_taim_ix5.iff	Do not edit.	0.12	1074.28	0.12	1585.58	0.05	0.5	0.05	0.5	0.17	24.684	0.05	0.34	634.8	634.8	0.05	317.4	317.4	1	0.17	2200	0.17	6875	5
 object/tangible/ship/components/weapon/wpn_taim_kx5.iff	Do not edit.	0.12	1342.85	0.12	1981.975	0.05	0.625	0.05	0.625	0.17	30.855	0.05	0.425	793.5	793.5	0.05	396.75	396.75	1	0.17	2200	0.17	12017.5	6
-object/tangible/ship/components/weapon/wpn_taim_kx5b_experimental.iff	Do not edit.	0.0001	1591.82	0.0001	2461.33	0.0001	0.5	0.0001	0.5	0.0001	19	0.0001	0.34	840.987	840.987	0.05	420.4935	420.4935	1	0.0001	2800	0.0001	21840	7
+object/tangible/ship/components/weapon/wpn_taim_kx5b_experimental.iff	Do not edit.	0.0001	1591.82	0.0001	2461.33	0.0001	0.5	0.0001	0.5	0.0001	19	0.0001	0.31	840.987	840.987	0.05	420.4935	420.4935	1	0.0001	2800	0.0001	21840	7
 object/tangible/ship/components/weapon/wpn_taim_kx8.iff	Do not edit.	0.12	1591.82	0.12	2461.33	0.05	0.6	0.05	0.45	0.17	27.156	0.05	0.34	840.987	840.987	0.05	420.4935	420.4935	1	0.17	2300	0.17	16380	7
 object/tangible/ship/components/weapon/wpn_taim_kx9.iff	Do not edit.	0.12	1981.3	0.12	3209.45	0.05	0.5	0.05	0.5	0.17	29.868	0.05	0.34	1100.38	1100.38	0.05	550.19	550.19	1	0.17	2400	0.17	46800	9
 object/tangible/ship/components/weapon/wpn_tieadvanced_blaster.iff	Do not edit.	0.12	362.5	0.12	487.5	0.05	0.625	0.05	0.625	0.17	25.5	0.05	0.425	168.75	168.75	0.05	84.375	84.375	1	0.17	2000	0.17	1575	2
