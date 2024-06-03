@@ -6,4 +6,4 @@
 
 appearanceFilename = "appearance/yt2400_engine_s02.apt"
 
-clientDataFile = "clientdata/ship/component/eng_yt2400_s01.cdf"
+clientDataFile = "clientdata/ship/component/eng_yt2400_s02.cdf"
